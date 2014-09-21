@@ -11,17 +11,14 @@
   simple, so you can just feel free to type. =) -->
 
 
-# Title
-#### Subtitle
-#### Date
+# VCS
+#### Version Control
+#### 09/20/2014
 
-Paragraph 1
+At least during this week, I'm fairly certain I've seen the words version control as many times as I have eaten something. Not to say it shouldn't be emphasized, but there must be a reason why these words carry so much weight. Why use Version Control? Because, it benefits everyone. From me to you, anyone with a computer that has internet is able to have an impact on a piece of code. Even better, Github, a platform of version control, lets you track changes through what is called a commit. It's essentially a snapshot of the current moment of your code. From start to finish, you are able to see all the changes you made and can easily access each "save point" that you make during the process of coding.
 
-Paragraph 2
+Not only are you allowed to do this, but so is everyone else. Because of this, no one's toes get stepped on. Everyone can receive a version of the code and play with it to their heart's content. If at any point you are just completely fed up with how your progress is going, you can go back to a previous save point and start over or even see the progress someone else has done and start from their commit.
 
-Paragraph 3
+Think of it as building a car, except that car can be copied as many times as you want, you can work on any part of the car whenever you want, and if you find yourself making a mistake, just go back in time and start from any of the check points you made.
 
-Add as many paragraphs as you want!!!
-
-
-
+Maybe then Tesla will have some competition.
