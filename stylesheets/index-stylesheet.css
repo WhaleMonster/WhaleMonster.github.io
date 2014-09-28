@@ -8,16 +8,18 @@ html {
 div {
 	font-size: 35px;
 	width: 13%;
-	height: 137px;	
+	height: 150px;	
 	position: relative;
 	border-radius: 7px;
 	background: rgba(0, 0, 0, 0.17);
 	margin-left: 65%;
-	margin-top: 9%;
+	margin-top: 7.5%;
 }
 
-div div {
-	margin-left: 10%;
+div p {
+	position: relative;
+	top: 5%;
+	left: 5%;
 }
 
 a:link{color:white;}
