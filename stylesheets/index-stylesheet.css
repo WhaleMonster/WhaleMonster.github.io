@@ -26,3 +26,9 @@ a:visited{color:white;}
 a {
 	text-decoration: none;
 }
+img {
+	height: 25px;
+	width: 25px;
+	margin-left: 1%;
+	margin-top: 30.6%;
+}
