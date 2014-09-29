@@ -6,20 +6,20 @@ html {
 }
 
 div {
-	font-family: Helvetica;
+	font-family: Helvetica;	
 	font-size: 35px;
 	width: 13%;
-	height: 150px;	
+	height: 165px;	
 	position: relative;
 	border-radius: 7px;
 	background: rgba(0, 0, 0, 0.17);
 	margin-left: 65%;
-	margin-top: 7.5%;
+	margin-top: 7.2%;
 }
 
 div p {
 	position: relative;
-	top: 5%;
+	top: 2%;
 	left: 5%;
 }
 
