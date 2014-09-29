@@ -4,6 +4,7 @@ html {
   	background-size: cover;
   	font-family: Helvetica;
   	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 a:link{color:white;}
@@ -13,10 +14,20 @@ a {
 }
 
 #blogborder {
+	position: relative;
 	margin-left: 25%;
 	margin-right: 4%;
-	margin-top: -188px;
-	position: relative;
+	margin-top: -16.4%;
 	border-radius: 7px;
 	background: rgba(0, 0, 0, 0.17);
+}
+
+#num{
+	font-size: 350px;
+	margin-top: -3.4%;
+}
+
+img{
+	max-height: 40px;
+	margin-left: 315px;
 }
