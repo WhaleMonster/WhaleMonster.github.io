@@ -6,6 +6,7 @@ html {
 }
 
 div {
+	font-family: Helvetica;
 	font-size: 35px;
 	width: 13%;
 	height: 150px;	
