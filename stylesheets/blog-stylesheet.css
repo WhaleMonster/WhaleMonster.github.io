@@ -13,6 +13,10 @@ a {
 	text-decoration: none;
 }
 
+p {
+	text-indent: 30px;
+}
+
 #blogborder {
 	position: relative;
 	margin-left: 25%;
