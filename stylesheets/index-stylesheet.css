@@ -8,13 +8,13 @@ html {
 div {
 	font-family: Helvetica;	
 	font-size: 35px;
-	width: 13%;
-	height: 165px;	
+	width: 16%;
+	height: 206px;	
 	position: relative;
 	border-radius: 7px;
 	background: rgba(0, 0, 0, 0.17);
 	margin-left: 65%;
-	margin-top: 5%;
+	margin-top: 4%;
 }
 
 div p {
@@ -32,5 +32,5 @@ a {
 img {
 	height: 29px;
 	width: 29px;
-	margin-top: 32.7%;
+	margin-top: 30%;
 }

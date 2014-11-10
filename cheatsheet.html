@@ -1,0 +1,62 @@
+<DOCTYPE! html>
+<html>
+<link type="text/css" rel="stylesheet" href="stylesheets/cheatstyle.css"/>
+	<title>Phase 0 Cheat Sheet</title>
+		<body>
+			<div id="header">
+				<div class ="main">Cheat Sheet</div>
+			</div>
+
+			<div id="something">			
+				<div class="somethingtext">Enumerable: Map</div>
+				<p class="ptext">Ruby's <a href ="http://ruby-doc.org/core-2.1.3/Enumerable.html#method-i-map">#map method</a> is good for iterating over an array. For example: <br> <br> 
+				[1,2,3,4].map{|x| puts x} => 1,2,3,4
+			</div>
+
+			<div id="something2">			
+				<div class="somethingtext">Enumerable: Collect</div>
+				<p class="ptext">Ruby's <a href ="http://ruby-doc.org/core-2.1.3/Enumerable.html#method-i-collect">#collect method</a> returns values that fit whatever condition is set inside of the block. <br> <br> 
+				[1,2,3,4].collect{ |x| x + 1 } => [2,3,4,5]
+			</div>
+
+			<div id="something3">		
+				<div class="somethingtext">Enumerable: any?</div>
+				<p class="ptext">Ruby's <a href ="http://ruby-doc.org/core-2.1.3/Enumerable.html#method-i-any-3F">#any? method</a>
+				if any element returns true for the paramters set in the block, returns true. Else, it returns false. <br> <br> 
+				%w[ant bear cat].any? { |word| word.length >= 3 } => True
+			</div>
+
+			<div id="something4">		
+				<div class="somethingtext">	Javascript: For Loops</div>
+				<p class="ptext">Javascript's <a href ="http://www.w3schools.com/js/js_loop_for.asp">For Loops</a>
+				takes conditions and runs until a condition is specified. <br> <br>
+				var cars = ["Honda","Nissan","Ford"]<br>
+				for (i = 0; i < cars.length; i++) {<br>
+    				text += cars[i];<br>
+    			}
+			
+			</div>
+
+			<div id="something5">		
+				<div class="somethingtext">Javascript: Objects</div>
+				<p class="ptext">Javascript's <a href ="http://ruby-doc.org/core-2.1.3/Enumerable.html#method-i-any-3F">objects with an attribute</a>
+				are similar to hashes in Ruby. <br> <br> 
+				var anything = {<br>
+					something: 1, <br>
+					something_else: 2; <br>
+				}
+			</div>
+
+			<div id="something6">		
+				<div class="somethingtext">Javascript: Functions </div>
+				<p class="ptext">Javascript's <a href ="http://www.w3schools.com/js/js_functions.asp">Functions</a>
+				are a method that runs a certain block of code. <br> 
+				function sum(array) {<br>
+  				var total = 0;<br>
+  				for (var i = 0; i < array.length; i++) {<br>
+  				total += array[i];<br>
+  				}<br>
+			</div>
+
+		</body>
+</html>
